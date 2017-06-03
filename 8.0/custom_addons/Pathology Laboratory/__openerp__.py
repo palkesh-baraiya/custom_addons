@@ -11,10 +11,10 @@
     'summary': 'Pathology Laboratory System',
     'description': """ """,
     'data': [
-        'laboratory.xml',
-        'demo_data.xml',
+        'views/laboratory.xml',
+        'views/demo_data.xml',
         'lab_report.xml',
-        'views/report_laboratory.xml',
+        'report/report_laboratory.xml',
         'security/laboratory_security.xml',
         'security/ir.model.access.csv',
 
