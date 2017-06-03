@@ -1,9 +1,0 @@
-id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
-access_receptionist,receptionist,model_lab_order,group_receptionist,1,1,1,0
-access_lab_technician,lab.technician,model_lab_order,group_lab_technician,1,1,1,1
-access_line_receptionist,line.receptionist,model_lab_order_line,group_receptionist,1,0,1,0
-access_line_lab.technician,line.lab.technician,model_lab_order_line,group_lab_technician,1,1,1,1
-access_lab_test_receptionist,lab.test.receptionist,model_lab_test,group_receptionist,1,0,1,0
-access_lab_test_lab.technician,lab.test.technician,model_lab_test,group_lab_technician,1,1,1,1
-access_res_receptionist,res.partner.receptionist,model_res_partner,group_receptionist,1,0,1,0
-access_res_technician,res.partner.lab.technician,model_res_partner,group_lab_technician,1,1,1,1
